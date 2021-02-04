@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/practiceprojectfeb/Microsoftproject/_apis/build/status/sreemukhiD.pipelines-java?branchName=master)](https://dev.azure.com/practiceprojectfeb/Microsoftproject/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
